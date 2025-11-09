@@ -1,6 +1,4 @@
-## ![hippo](https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif)
-
-![8Bit _ Pixel _ Night _ Future _ City](https://github.com/user-attachments/assets/51d1318c-2683-4d95-958b-7022b6525436)
+## ![8Bit _ Pixel _ Night _ Future _ City](https://github.com/user-attachments/assets/51d1318c-2683-4d95-958b-7022b6525436)
 
 
 
