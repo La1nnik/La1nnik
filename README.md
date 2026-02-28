@@ -1,6 +1,13 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=La1nnik" />
-
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />Hey! Nice to see you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"
+       width="25" height="25"
+       style="margin-right:6px; vertical-align:middle;" />
+  Hey! Nice to see you
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"
+       width="25" height="25"
+       style="margin-left:6px; vertical-align:middle;" />
+</h1>
 <p><b>Welcome to my profile. I am Laur, freelance Software Dev and a student. Solving problems is my source of excitement!
 <br>Curently working on
 <a href="https://store.steampowered.com/app/3610280/Twilight_Protocol/" target="_blank">
@@ -8,7 +15,17 @@ Twilight Protocol's. </a> team.
 I am happy to contribute to any interesitng projects you might have.</p>
 <br><br>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />Things I work with<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
+       width="25" height="25"
+       style="margin-right:6px; vertical-align:middle;" />
+  Things I work with
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
+       width="25" height="25"
+       style="margin-left:6px; vertical-align:middle;" />
+</h2>
+
+
 <div align="center">
   
 
