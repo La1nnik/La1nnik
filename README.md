@@ -13,8 +13,17 @@
 <a href="https://store.steampowered.com/app/3610280/Twilight_Protocol/" target="_blank">
 Twilight Protocol's. </a> team.  
 I am happy to contribute to any interesitng projects you might have.</p>
-<br><br>
+<br>
 
+<div style="text-align:center;">
+  <h3>Contact me:</h3>
+  <a href="mailto:laurfilipov@gmail.com">
+    <img src="https://img.shields.io/badge/laurfilipov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+
+<br><br>
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"
        width="25" height="25"
@@ -26,7 +35,7 @@ I am happy to contribute to any interesitng projects you might have.</p>
 </h2>
 
 
-<div align="center">
+<div align="left">
   
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
